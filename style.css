@@ -1,0 +1,120 @@
+*{margin: 0;
+box-sizing: border-box;
+}
+#sobre{
+    background-color: #000;
+}
+
+#contato{
+    background-color: #000000;
+}
+
+#portifolio{
+background-image:url(pingu.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-position: top;
+background-color: #000000;
+
+}
+
+#index_main{ 
+background-color: #090014;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-left:10% ;
+padding-right: 10%;
+padding-top: 5%; 
+padding-bottom: 5%;
+
+
+}
+
+header{
+    height: 50px;
+    border: 1px;
+    background-color: #5F4C73;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header a{
+    background-color: #453358; 
+  color: #a81ff8; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer{
+    background-color: #5D5665;
+
+}
+footer ul{
+    
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-left: 2%;
+}
+#me{
+padding-top: 290px  ;
+display: flex;
+align-content: start;
+justify-content: center;
+font-size: 30px;
+font-family:cursive;
+padding-bottom: 280px;
+color: #a81ff8;
+font-weight: bold;
+
+}
+
+
+#me_text{
+font-size: large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#text{
+font-size: larger;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: aliceblue;
+}
+
+.texto{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    background-color: #090014;
+    padding-left:20px ;
+}
+.imagem{
+    
+    background-color: #000;
+}
+#contato_main{
+    background-color: #090014;
+    display: flex;
+  
+    align-items: center;   
+}
+
+.texto span{
+    font-size: larger;
+    font-weight: bold;
+
+}
+form label{
+    color: aliceblue;
+    font-size: larger;
+}
+#sobre_main{
+    display: flex;
+  background-color: #090014;
+    align-items: center;   
+}
+
